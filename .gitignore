@@ -1,0 +1,4 @@
+.venv
+sensors.db
+.idea
+__pycache__
